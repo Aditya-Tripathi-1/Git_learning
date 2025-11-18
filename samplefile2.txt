@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-This is sample file 2.
-revert commit 2.
-=======
-This is sample file 2
-checking reset commit 2.
->>>>>>> 675f8206fbe5cfccc7e8a6c82838e3c23732c1da
